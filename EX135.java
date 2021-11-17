@@ -65,7 +65,7 @@ public class EX135 {
             }
 
             System.out.println( escalera ? valido(marcados) : "NADA" );
-
+            System.out.print("Hola Soc Eloy");
         }
 
     }

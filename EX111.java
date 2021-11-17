@@ -32,7 +32,7 @@ public class EX111 {
                             ? "MULTA"
                             : "PUNTOS"
                 );
-
+            System.out.print("Hola Soc Eloy");
         }
 
     }
